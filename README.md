@@ -17,5 +17,5 @@ For the project, happiness is the label while corruption is the feature value. A
 2. Data wrangling
 3. Designing models and choosing the best one
 
-### Resultus
+### Results
 Here, 4 models were built--Linear, Decision Tree, Random Forest, and Gradient Boost Decision Dree models. The Random Forest Model emerged as the best model with a `r2_score` of 0.8786, a `rmse` value of 0.3750, and a 84.24% accuracy in predicting corruption as a measure of happiness across different countries between the years 2012-2017. 
